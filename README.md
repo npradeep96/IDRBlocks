@@ -8,4 +8,6 @@ The ``Top_200_analysis`` directory contains analysis of the top-200 proteins wit
 
 Therefore, I went ahead and started exploring the full dataset more, the analysis of which is present in ``notebooks``
 
+Finally, ``train_models.ipynb`` is the Colab notebook that I have used to train the models and explore how using domain knowledge-based features and embeddings from LLMs can predict partitioning. 
+
 
