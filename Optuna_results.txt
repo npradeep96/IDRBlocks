@@ -1,0 +1,72 @@
+ESM2
+
+Value: 0.6280707716941833
+  Params: 
+    dropout_rate: 0.13690661815393115
+    lr: 0.0031286710071954708
+    weight_decay: 0.0016170333926384518
+    max_epochs: 71
+    log_2_batch_size: 3
+
+max_epochs = 58
+batch_size = 8
+weight_decay = 0.0039934
+lr = 0.0017
+dropout_rate = 0.36132
+
+max_epochs = 71
+batch_size = 8
+weight_decay = 0.001617
+lr = 0.003128671
+dropout_rate = 0.1369
+
+Test Cross entropy: 0.6711
+Test Accuracy: 0.601
+Test AUROC: 0.629
+Confusion Matrix:
+[[99 32]
+ [73 59]]
+
+Test Cross entropy: 0.6697
+Test Accuracy: 0.597
+Test AUROC: 0.646
+Confusion Matrix:
+[[78 53]
+ [53 79]]
+
+Test Cross entropy: 0.6829
+Test Accuracy: 0.616
+Test AUROC: 0.641
+Confusion Matrix:
+[[80 51]
+ [50 82]]
+
+Test Cross entropy: 0.6499
+Test Accuracy: 0.635
+Test AUROC: 0.682
+Confusion Matrix:
+[[96 35]
+ [61 71]]
+
+ProtTrans
+
+Test Cross entropy: 0.7202
+Test Accuracy: 0.624
+Test AUROC: 0.630
+Confusion Matrix:
+[[97 39]
+ [60 67]]
+
+Test Cross entropy: 0.6720
+Test Accuracy: 0.635
+Test AUROC: 0.667
+Confusion Matrix:
+[[100  36]
+ [ 60  67]]
+
+Test Cross entropy: 0.6757
+Test Accuracy: 0.639
+Test AUROC: 0.683
+Confusion Matrix:
+[[99 37]
+ [58 69]]
